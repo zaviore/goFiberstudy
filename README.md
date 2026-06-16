@@ -4,13 +4,13 @@ A RESTful API for subscription management with user authentication and payment p
 
 ## Features
 
-- 🔐 **User Authentication**: Register and login with JWT tokens
-- 👤 **User Management**: CRUD operations for users
-- 📦 **Subscription Management**: Create and manage subscriptions
-- 💳 **Payment Processing**: Simulated payment processing with transaction tracking
-- 🗄️ **Database Migrations**: Auto-migrate database schemas
-- 🚀 **Multi-Environment Support**: Development, staging, and production configurations
-- 🛡️ **Security**: Password hashing with bcrypt, JWT authentication
+- **User Authentication**: Register and login with JWT tokens
+- **User Management**: CRUD operations for users
+- **Subscription Management**: Create and manage subscriptions
+- **Payment Processing**: Simulated payment processing with transaction tracking
+- **Database Migrations**: Auto-migrate database schemas
+- **Multi-Environment Support**: Development, staging, and production configurations
+- **Security**: Password hashing with bcrypt, JWT authentication
 
 ## Tech Stack
 
