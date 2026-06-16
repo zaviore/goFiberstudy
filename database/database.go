@@ -18,10 +18,10 @@ func ConnectDB(cfg *config.Config) error {
 		return err
 	}
 
-	log.Printf("Database connected successfully to %s@%s:%s/%s",
-		cfg.Database.User,
-		cfg.Database.Host,
-		cfg.Database.Port,
+	log.Printf("Database connected successfully to %s@%s:%s/%s", 
+		cfg.Database.User, 
+		cfg.Database.Host, 
+		cfg.Database.Port, 
 		cfg.Database.Name,
 	)
 
